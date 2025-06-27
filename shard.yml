@@ -1,0 +1,9 @@
+name: dns
+version: 0.1.0
+
+authors:
+  - Luis Gomez <xtokio@gmail.com>
+
+crystal: '>= 1.16.2'
+
+license: MIT
