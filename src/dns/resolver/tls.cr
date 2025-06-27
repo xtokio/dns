@@ -1,4 +1,5 @@
 require "socket"
+require "openssl"
 
 class DNS::Resolver::TLS < DNS::Resolver
   # provide your own server list
